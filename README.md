@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <!-- Stats Card -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=travelless)](https://github.com/anuraghazra/github-readme-stats" alt="Typing SVG" />
+ <img src="https://github-readme-stats.vercel.app/api?username=travelless)](https://github.com/travelless/github-readme-stats" alt="Typing SVG" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=travelless)](https://github.com/anuraghazra/github-readme-stats) -->
 </p>
 
@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 <!-- Activity Graph -->
 <p align="center">
   
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=travelless)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Typing SVG" />
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=travelless)](https://github.com/travelless/github-readme-activity-graph" alt="Typing SVG" />
 <!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=travelless)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </p>
