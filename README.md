@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <!-- Stats Card -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=travelless)](https://github.com/travelless/github-readme-stats" alt="Typing SVG" />
+ <img src="[(https://github-readme-stats.vercel.app/api?username=travelless)](https://github.com/travelless/github-readme-stats" alt="Typing SVG" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=travelless)](https://github.com/anuraghazra/github-readme-stats) -->
 </p>
 
