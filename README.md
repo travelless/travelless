@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!-- Activity Graph -->
 <p align="center">
   
- <img src=" [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=travelless&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/travelless/github-readme-activity-graph)" alt="Typing SVG" />
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=travelless&custom_title=This%20is%20a%20title&hide_border=true" alt="Typing SVG" />
 <!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=travelless)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
